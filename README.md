@@ -3,7 +3,7 @@ US oil production data analysis
 
 The data corresponding to the Logistic model are straighten in coordinates:
 
-![image](https://user-images.githubusercontent.com/47636259/134583956-aef80842-e52c-4e34-8791-51aaf2567306.png)
+![image](https://user-images.githubusercontent.com/47636259/135460541-7ea4c5ee-7615-46b7-8f36-5527b85d4029.png)
 <img width="427" alt="us_oil_3" src="https://user-images.githubusercontent.com/47636259/135459835-e3cf2bbf-169d-4f0f-b43a-6e3301ce55d9.png">
 
 The inflection point is found from the intersection of the straight line with the abscissa axis:
